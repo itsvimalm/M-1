@@ -13,12 +13,6 @@ Ultrasonic sensor (HC-SR04)
 Power supply
 Wi-Fi network
 Setup and Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/wifi-controlled-car.git
-cd wifi-controlled-car
 
 Open the project in your Arduino IDE:
 
